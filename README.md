@@ -1,3 +1,4 @@
+<img width="640" height="640" alt="12205152" src="https://github.com/user-attachments/assets/6f46338d-0c26-40eb-8c3f-c4cbf76bdc25" />
 # Oitavo Projeto – Empresa TudoWEB - Pesquisa de satisfação
 
 Este projeto em **Python** foi desenvolvido para praticar o ciclo **Entrada → Processamento → Saída**.  
